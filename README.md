@@ -1,5 +1,5 @@
 # <a href="https://youtu.be/mLFPodZO8Iw" target="_blank"> Book Nest </a> 
-- A Java Web Developement Project
+- A Java Web Development Project
 <!--Check out the Live website demo: [https://theonlinebookstore.herokuapp.com](https://theonlinebookstore.herokuapp.com)-->
 - User Login Credentials: (ohimoiza/ohimoiza)
 - Admin Login Credentials: (Admin/Admin)
