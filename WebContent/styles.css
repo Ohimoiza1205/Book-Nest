@@ -73,8 +73,6 @@ header nav li a.active {
 	color: #ffff80;
 	padding-bottom:2px;
 }
-
-
 .holds-the-iframe {
 	background: url(loader.gif) center center no-repeat;
 }
